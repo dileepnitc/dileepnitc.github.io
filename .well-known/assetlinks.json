@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dileep.applinktesting",
+    "sha256_cert_fingerprints":
+    ["74:23:42:09:F1:BB:EE:76:06:21:08:29:E2:BF:86:64:0A:69:FA:11:27:68:34:F9:84:E1:BF:7E:3A:99:D0:48", 
+    "74:23:42:09:F1:BB:EE:76:06:21:08:29:E2:BF:86:64:0A:69:FA:11:27:68:34:F9:84:E1:BF:7E:3A:99:D0:48"]
+  }
+}]
