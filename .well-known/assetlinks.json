@@ -2,9 +2,16 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.example.myapplication",
+    "sha256_cert_fingerprints":
+    ["B5:E8:39:D2:21:36:76:6C:29:52:71:EC:7A:3D:10:D5:92:33:DD:27:98:29:F7:50:12:7D:06:60:86:EC:09:4D"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.dileep.applinktesting",
     "sha256_cert_fingerprints":
-    ["74:23:42:09:F1:BB:EE:76:06:21:08:29:E2:BF:86:64:0A:69:FA:11:27:68:34:F9:84:E1:BF:7E:3A:99:D0:48", 
-    "74:23:42:09:F1:BB:EE:76:06:21:08:29:E2:BF:86:64:0A:69:FA:11:27:68:34:F9:84:E1:BF:7E:3A:99:D0:48"]
+    ["74:23:42:09:F1:BB:EE:76:06:21:08:29:E2:BF:86:64:0A:69:FA:11:27:68:34:F9:84:E1:BF:7E:3A:99:D0:48"]
   }
 }]
