@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "EQHXZ8M8AV.com.google.developer0.dev", "EQHXZ8M8AV.com.google.developer1.dev" ],
+             "appIDs": [ "EQHXZ8M8AV.com.google.experimental0.dev", "EQHXZ8M8AV.com.google.experimental1.dev" ],
              "components": [
                {
                   "#": "no_universal_links",
